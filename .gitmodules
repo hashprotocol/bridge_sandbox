@@ -1,0 +1,6 @@
+[submodule "algorand/go-algorand"]
+	path = algorand/go-algorand
+	url = https://github.com/algorand/go-algorand.git
+[submodule "algorand/indexer"]
+	path = algorand/indexer
+	url = https://github.com/algora/indexer.git
